@@ -1,0 +1,6 @@
+final keyword :
+--------------------
+	The 'final' keyword in java is used with a variable, method or a class.
+When a variable is made final, then the variable cannot be reassigned.
+When the method is made final, then the method cannot be overridden.
+When the class is made final, then the class cannot be extended.
